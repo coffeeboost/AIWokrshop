@@ -1,0 +1,6 @@
+dtale==2.9.0
+ipykernel==6.17.1
+jupyter==1.0.0
+pandas==1.5.2
+pandas-bokeh==0.5.5
+statsmodels==0.13.5
